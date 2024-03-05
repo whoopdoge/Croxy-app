@@ -1,0 +1,16 @@
+{
+"name": "CroxyProxy",
+"short_name": "CroxyProxy",
+"start_url": ".",
+"display": "standalone",
+"scope": "./",
+"theme_color": "#4D4D4D",
+"background_color": "#4D4D4D",
+"icons": [
+{
+"src": "assets/images/favicon.png",
+"type": "image/png",
+"sizes": "192x192"
+}
+]
+}
