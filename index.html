@@ -10,5 +10,12 @@
 	<div style="width: 80%;">
 		<div id="r4-widget-form"></div>
 	</div>
+	
+	<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/service-worker.js');
+  }
+</script>
+
 </body>
 </html>
